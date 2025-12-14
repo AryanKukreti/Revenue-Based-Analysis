@@ -1,3 +1,5 @@
+![Project Screenshot](Revenue-Based-Analysis/project-2.png)
+
 # Vendor Performance Analysis
 
 ## Overview
