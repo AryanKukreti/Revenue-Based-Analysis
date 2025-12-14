@@ -1,5 +1,6 @@
 # Vendor Performance Analysis
 <div align="center"> <img src="https://raw.githubusercontent.com/AryanKukreti/Revenue-Based-Analysis/main/project-2.png" alt="Enterprise Vendor Performance Analytics System" width="800"> <p><i>Drive Profitability. Reduce Costs. Optimize SKU Performance.</i></p> </div>
+
 ## Overview
 
 This project analyzes vendor, brand, and inventory performance for a retail/wholesale business to identify profitability drivers, operational inefficiencies, and actionable opportunities for optimization. The analysis combines data ingestion pipelines, exploratory data analysis (EDA), statistical validation, and business-focused reporting to support data-driven decision-making.
