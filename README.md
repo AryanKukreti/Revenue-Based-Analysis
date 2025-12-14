@@ -1,4 +1,5 @@
-![Project Screenshot](Revenue-Based-Analysis/project-2.png)
+![Revenue Analysis](https://github.com/AryanKukreti/Revenue-Based-Analysis/blob/main/project-2.png)
+
 
 # Vendor Performance Analysis
 
