@@ -1,5 +1,5 @@
 # Vendor Performance Analysis
-<div align="center"> <img src="https://raw.githubusercontent.com/AryanKukreti/Revenue-Based-Analysis/main/project-2.png" alt="Enterprise Vendor Performance Analytics System" width="800"> <p><i>Drive Profitability. Reduce Costs. Optimize SKU Performance.</i></p> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/AryanKukreti/Revenue-Based-Analysis/main/project-2.png" alt="Enterprise Vendor Performance Analytics System" width="1200"> <p><i>Drive Profitability. Reduce Costs. Optimize SKU Performance.</i></p> </div>
 
 ## Overview
 
