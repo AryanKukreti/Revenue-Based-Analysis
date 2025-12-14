@@ -77,7 +77,7 @@ Statistical hypothesis testing confirms that profit margins between high-perform
 ├── Vendor Performance Analysis.ipynb
 ├── vendor_performance.pbix   # Power BI dashboard
 ├── Vendor Performance Report.pdf
-└── inventory.db              # SQLite database (generated)
+└── inventory.db              # SQLite database 
 ```
 
 ## Final Recommendations
