@@ -1,5 +1,5 @@
 # Vendor Performance Analysis
-<div align="center"> <img src="https://raw.githubusercontent.com/AryanKukreti/Revenue-Based-Analysis/main/project-2.png" alt="Enterprise Vendor Performance Analytics System" width="400"> 
+<div align="center"> <img src="https://raw.githubusercontent.com/AryanKukreti/Revenue-Based-Analysis/main/project-2.png" alt="Enterprise Vendor Performance Analytics System" width="600"> 
 
 ## Overview
 
