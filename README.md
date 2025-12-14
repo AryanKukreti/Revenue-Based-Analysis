@@ -1,5 +1,5 @@
 ![Revenue Analysis](https://github.com/AryanKukreti/Revenue-Based-Analysis/blob/main/project-2.png)
-
+<img src="[image-url](https://github.com/AryanKukreti/Revenue-Based-Analysis/blob/main/project-2.png)" alt="Alt Text" style="width:50%; height:auto;">
 
 # Vendor Performance Analysis
 
